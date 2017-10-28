@@ -201,6 +201,7 @@
 
 ### IDEs
 
+- [CLion](https://www.jetbrains.com/clion/) - A smart cross-platform IDE for C/C++, based off IntelliJ platform.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) ![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE.
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
